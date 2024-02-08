@@ -7,7 +7,7 @@ import Nav from '~/components/Nav.vue'
     <Nav />
     <div class="container mx-auto">
       <h1>First</h1>
-     
+       
     </div>
   </div>
 </template>
