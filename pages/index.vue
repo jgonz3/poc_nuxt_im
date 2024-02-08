@@ -5,8 +5,9 @@ import Nav from '~/components/Nav.vue'
 <template>
   <div>
     <Nav />
-    <UContainer>
-     <h2>Some packages for instant messaging</h2>
-  </UContainer>
+    <div class="container mx-auto">
+      <h1>First</h1>
+     
+    </div>
   </div>
 </template>
