@@ -12,7 +12,7 @@ import Nav from '~/components/Nav.vue'
           <tr>
             <th class="border border-slate-300 p-4">Name of the libraries</th>
             <th class="border border-slate-300 p-4">Github Link</th>
-            <th class="border border-slate-300 p-4">Website Link</th>
+            <th class="border border-slate-300 p-4">Website </th>
           </tr>
         </thead>
         <tbody>
